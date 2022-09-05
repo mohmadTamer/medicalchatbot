@@ -1,0 +1,15 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin Area</title>
+
+  <link rel="stylesheet" href="././design/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="././design/css/style.css">
+
+</head>
+
+<body>

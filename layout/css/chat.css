@@ -1,0 +1,43 @@
+/* a.nav-link {
+  color: gray;
+  font-size: 18px;
+  padding: 0;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid #e84118;
+  padding: 2px;
+  flex: none;
+}
+
+input:focus {
+  outline: 0px !important;
+  box-shadow: none !important;
+}
+
+.card-text {
+  border: 2px solid #ddd;
+  border-radius: 8px;
+} */
+
+#chat2 .form-control {
+  border-color: transparent;
+  }
+  
+  #chat2 .form-control:focus {
+  border-color: transparent;
+  box-shadow: inset 0px 0px 0px 1px transparent;
+  }
+  
+  .divider:after,
+  .divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+  } 
+
+  
